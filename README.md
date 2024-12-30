@@ -77,8 +77,9 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 ---
 
 ## Screenshot
-![RC5 Encryption/Decryption Interface](Images/Encrypt.png)
+![RC5 Encryption/Decryption Interface](https://github.com/user-attachments/assets/7e1a30c7-4106-464b-873c-4ab689d7f522)
 
-![RC5 Encryption/Decryption Interface](Images/Decrypt.png)
+![RC5 Encryption/Decryption Interface](https://github.com/user-attachments/assets/203b734f-eefd-490c-85da-8592b0f4504b)
+
 
 

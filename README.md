@@ -1,4 +1,4 @@
-# RC5 Encryption/Decryption Interface
+# 🌟 RC5 Encryption/Decryption Interface 🌟
 
 * [Backend Project](https://github.com/sergiu1301/CryptographyBackend)
 * [Frontend Project](https://github.com/sergiu1301/CryptographyFrontend)
@@ -7,7 +7,7 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 
 ---
 
-## Features
+## 💡 Features
 1. **Algorithm Selection**:
    - Currently supports **RC5**.
    - Placeholder for future support of AES, RSA, or other algorithms.
@@ -37,7 +37,7 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 
 ---
 
-## How It Works
+## 🌐 How It Works
 1. **Step 1**: Choose the algorithm (**RC5**).
 2. **Step 2**: Select operation (`Encrypt` or `Decrypt`).
 3. **Step 3**: Configure the parameters:
@@ -51,7 +51,7 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 
 ---
 
-## Example Usage
+## ⚡ Example Usage
 - **Encryption**:
   - **w**: 32 bits
   - **r**: 12 rounds
@@ -68,7 +68,7 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 
 ---
 
-## Notes
+## 📓 Notes
 - The interface ensures compatibility with RC5 specifications:
   - Validates key length against the selected word size.
   - Restricts parameter choices to RC5-supported values.
@@ -76,7 +76,7 @@ This is a user-friendly interface designed to demonstrate the **RC5 encryption a
 
 ---
 
-## Screenshot
+## 🖼️ Screenshot
 ![RC5 Encryption/Decryption Interface](https://github.com/user-attachments/assets/7e1a30c7-4106-464b-873c-4ab689d7f522)
 
 ![RC5 Encryption/Decryption Interface](https://github.com/user-attachments/assets/203b734f-eefd-490c-85da-8592b0f4504b)
